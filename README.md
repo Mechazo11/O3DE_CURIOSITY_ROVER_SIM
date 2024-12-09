@@ -9,8 +9,7 @@ Version 1.0
 This repository contains a ROS 2 enabled O3DE project to simulate a [Curiosity Rover](https://en.wikipedia.org/wiki/Curiosity_(rover)) traversing on a 3D terrian inspired by NASA JPL's [MarsYard](https://robotics.jpl.nasa.gov/how-we-do-it/facilities/marsyard-iii/) testing fascility. 
 It was part of submission of NASA Space ROS Summer Sim Spring Challenge 2024 [#181](https://github.com/space-ros/docker/issues/181)
 
-
-**TODO** add video clip here
+https://github.com/user-attachments/assets/865068a1-ec8b-4fd2-992a-1c8a992dbc21
 
 In my opinion O3DE based robot simulation has the following advantages and disadvantages
 
